@@ -1,6 +1,8 @@
 # 🖥️ Portfolio – Jelena | Front-End Developer
 
-Ce projet est mon portfolio personnel, conçu pour présenter mes compétences, mes projets web et mes services en tant que développeuse Front-End.
+🇬🇧 This project is my personal portfolio, designed to showcase my skills, web projects, and services as a Front-End developer. It highlights my background, my achievements, as well as several projects built using modern technologies.
+
+🇫🇷 Ce projet est mon portfolio personnel, conçu pour présenter mes compétences, mes projets web et mes services en tant que développeuse Front-End.
 Il met en avant mon parcours, mes réalisations ainsi que plusieurs projets réalisés avec des technologies modernes.
 
 ![image alt](https://github.com/Yelle-stack/myPortfolio/blob/12a72f56b529e49c768d40767f3be28f52cf8e32/potfolioimg.png)
