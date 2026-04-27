@@ -3,7 +3,7 @@
 Ce projet est mon portfolio personnel, conçu pour présenter mes compétences, mes projets web et mes services en tant que développeuse Front-End.
 Il met en avant mon parcours, mes réalisations ainsi que plusieurs projets réalisés avec des technologies modernes.
 
-![image alt](https://github.com/Yelle-stack/myPortfolio/blob/0142ed99d77ccda09c5bb42d7b0d432279787131/homeMyPortfolio.png)
+![image alt]
 ## 🚀 Fonctionnalités principales
 Section Home : présentation professionnelle, photo, CTA.
 
