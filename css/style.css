@@ -377,26 +377,6 @@ textarea {
     color: #fff;
 }
 
-.contact-email {
-    margin-top: 10px;
-    font-size: 0.95rem;
-    opacity: 0.9;
-}
-
-.contact-email a {
-    color: #fff;
-    font-weight: 500;
-    padding: 4px 10px;
-    border-radius: 6px;
-    background: rgba(255, 255, 255, 0.08);
-    transition: 0.3s;
-}
-
-.contact-email a:hover {
-    background: var(--main-color);
-    color: #fff;
-}
-
 /* RESPONSIVE */
 @media (max-width: 768px) {
     .home {
